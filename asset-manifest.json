@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Akriti3011/Knockout/static/css/main.2c7e95f0.chunk.css",
+    "main.js": "/Akriti3011/Knockout/static/js/main.bd648ea6.chunk.js",
+    "main.js.map": "/Akriti3011/Knockout/static/js/main.bd648ea6.chunk.js.map",
+    "runtime-main.js": "/Akriti3011/Knockout/static/js/runtime-main.32a8e0eb.js",
+    "runtime-main.js.map": "/Akriti3011/Knockout/static/js/runtime-main.32a8e0eb.js.map",
+    "static/css/2.006be587.chunk.css": "/Akriti3011/Knockout/static/css/2.006be587.chunk.css",
+    "static/js/2.d9913fba.chunk.js": "/Akriti3011/Knockout/static/js/2.d9913fba.chunk.js",
+    "static/js/2.d9913fba.chunk.js.map": "/Akriti3011/Knockout/static/js/2.d9913fba.chunk.js.map",
+    "index.html": "/Akriti3011/Knockout/index.html",
+    "precache-manifest.da0bec7383dfe98880822e484e52e17b.js": "/Akriti3011/Knockout/precache-manifest.da0bec7383dfe98880822e484e52e17b.js",
+    "service-worker.js": "/Akriti3011/Knockout/service-worker.js",
+    "static/css/2.006be587.chunk.css.map": "/Akriti3011/Knockout/static/css/2.006be587.chunk.css.map",
+    "static/css/main.2c7e95f0.chunk.css.map": "/Akriti3011/Knockout/static/css/main.2c7e95f0.chunk.css.map",
+    "static/js/2.d9913fba.chunk.js.LICENSE.txt": "/Akriti3011/Knockout/static/js/2.d9913fba.chunk.js.LICENSE.txt",
+    "static/media/fifa.jpeg": "/Akriti3011/Knockout/static/media/fifa.e8d5bb70.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32a8e0eb.js",
+    "static/css/2.006be587.chunk.css",
+    "static/js/2.d9913fba.chunk.js",
+    "static/css/main.2c7e95f0.chunk.css",
+    "static/js/main.bd648ea6.chunk.js"
+  ]
+}
